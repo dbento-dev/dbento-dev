@@ -9,7 +9,7 @@ I am a passionate front-end engineer <img src="https://media.giphy.com/media/WUl
 - :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.<br>
 - :seedling: I’m currently learning anything Reactjs, TypeScript and JavaScript related.<br>
 - :zap: Fun fact: I'm an old Tibia player, so let's go hunting?
-- :office: Working for: @pagbank @pagseguro
+- :office: Working for: @pagbank @pagseguro 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/david-bento) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/dbentodev) 
