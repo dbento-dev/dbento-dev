@@ -12,5 +12,5 @@ I am a passionate front-end engineer <img src="https://media.giphy.com/media/WUl
 - :office: Working for: @pagbank @pagseguro 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/david-bento) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/dbentodev) 
-
+[![Linkedin Badge](https://img.shields.io/badge/-David-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-bento/)](https://www.linkedin.com/in/david-bento/)
+[![Gmail Badge](https://img.shields.io/badge/-dfbento26@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dbento26@gmail.com)](mailto:dfbento26@gmail.com)
