@@ -5,11 +5,12 @@
 </div>
 
 ## 💫 About Me:
+
 I am a passionate front-end engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.
-- :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.<br>
+- :telescope: I’m working as a Software Engineer and contributing to the front-end for building web applications..<br>
 - :seedling: I’m currently learning anything Reactjs, TypeScript and JavaScript related.<br>
 - :zap: Fun fact: I'm an old Tibia player, so let's go hunting!
-- :office: Working for: @pagbank @pagseguro 
+- :office: Working for: @pagbank @pagseguro
 
 ## 🌐 Socials:
 [![Linkedin Badge](https://img.shields.io/badge/-David-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-bento/)](https://www.linkedin.com/in/david-bento/)
